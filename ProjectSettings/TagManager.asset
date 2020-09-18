@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Agent
+  - Person
+  - Door
+  - Wall
+  - NotFound
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - dud1
+  - None
+  - 1
+  - 2
+  - 3
+  - dud2
+  - dud3
+  - dud4
+  - dud5
+  - dud6
+  - dud7
+  - dud8
+  - dud9
+  - 1 + 2
+  - 1 +3
+  - 2 + 3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
