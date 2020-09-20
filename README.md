@@ -6,7 +6,9 @@ Challenge Link: https://www.atositchallenge.net/2020-theme-cooperative-artificia
 * A soultion was porduced using reinforcement learning.
 * Using Unity Engien as a testing and training enviroment to create AI.
 * Mulitple different AI was created to find the best possible network configuration.
-[![](http://img.youtube.com/vi/dIc1bhqJ3ZE/0.jpg)](http://www.youtube.com/watch?v=dIc1bhqJ3ZE "")
+<p align="center">
+    [![](http://img.youtube.com/vi/dIc1bhqJ3ZE/0.jpg)](http://www.youtube.com/watch?v=dIc1bhqJ3ZE "")
+ <\p>
 
 ## Process
 1. Data exploration was done to understand the dataset and the type of data being used.
