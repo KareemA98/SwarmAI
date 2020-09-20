@@ -8,7 +8,7 @@ Challenge Link: https://www.atositchallenge.net/2020-theme-cooperative-artificia
 * Mulitple different AI was created to find the best possible network configuration.
 <p align="center">
     [![](http://img.youtube.com/vi/dIc1bhqJ3ZE/0.jpg)](http://www.youtube.com/watch?v=dIc1bhqJ3ZE "")
- <\p>
+</p>
 
 ## Process
 1. Data exploration was done to understand the dataset and the type of data being used.
